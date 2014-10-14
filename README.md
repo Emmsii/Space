@@ -15,6 +15,19 @@ Just a todo list for my brain to dump stuff.
 **Planets**
 + Random size and distance from star.
 + ~~Random chance for moon(s).~~
++ Types
+  + Terrestrial
+  + Gas giant
+  + Ocean
+  + Ice
+  + Desert
++ Planets have recourses
+  + Water
+  + Metal
+  + Gases
+  + Exotic Materials
+  + Natural Materials
++ Resources can be gathered.
 
 **Stars**
 + ~~Generated with possible chance for multiple planets.~~
